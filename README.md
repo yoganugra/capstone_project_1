@@ -15,6 +15,7 @@ Data dummy yang digunakan pada program ini adalah:
 3. Lima jurusan soshum beserta passing gradenya untuk SNBP
 
 ——————————————————————————————————————————————————————————————
+
 Ketentuan data dummy yang digunakan pada program ini adalah:
 1. NIS                    : sebagai primary key
 2. Nama                   : Nama lengkap pemilik NIS
@@ -24,6 +25,7 @@ Ketentuan data dummy yang digunakan pada program ini adalah:
 6. Kontak Orang Tua/Wali  : Nomor handphone orang tua/wali untuk dilakukan komunikasi mengenai perkembangan belajar di sekolah, termasuk layak/tidaknya mendapatkan KIP-K.
 
 ——————————————————————————————————————————————————————————————
+
 Program ini terdiri dari fitur utama dengan beberapa sub-fitur di dalamnya.
 
 Untuk siswa sebagai user, hanya dapat mengakses fitur Read. Dimana, sub-fitur di dalamnya berisikan:
