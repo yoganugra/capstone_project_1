@@ -6,11 +6,11 @@ Program ini dirancang untuk siswa, terutama siswa kelas 12 semester 1, dan wali 
 
 Data dummy yang digunakan pada program ini adalah:
 1. Lima Nomor Induk Siswa (NIS) dengan masing masing NIS berisikan:
-    a. Nama Lengkap
-    b. Kelas
-    c. Rerata Nilai
-    d. Nama Orang Tua/Wali
-    e. Kontak Orang Tua/Wali
+(a) Nama Lengkap
+(b) Kelas
+(c) Rerata Nilai
+(d) Nama Orang Tua/Wali
+(e) Kontak Orang Tua/Wali
 2. Lima jurusan saintek beserta passing gradenya untuk SNBP
 3. Lima jurusan soshum beserta passing gradenya untuk SNBP
 
@@ -36,31 +36,31 @@ Untuk siswa sebagai user, hanya dapat mengakses fitur Read. Dimana, sub-fitur di
 
 Untuk wali kelas sebagai user, dapat mengakses semua fitur pada program ini. Fitur tersebut berisikan:
 1. Create (Menambah data siswa)
-Menu Create terdiri dari penambahan siswa baru, dengan ketentuan:
-  a. Menambahkan NIS sebagi primary-key
-  b. Menambahkan nama lengkap siswa
-  c. Menambahkan kelas siwa
-  d. Menambahkan rerata nilai siswa
-  e. Menambahkan nama orang tua/wali siswa
-  f.  Menambahkan kontak orang tua/wali siswa
+-- Menu Create terdiri dari penambahan siswa baru, dengan ketentuan:
+  (a) Menambahkan NIS sebagi primary-key
+  (b) Menambahkan nama lengkap siswa
+  (c) Menambahkan kelas siwa
+  (d) Menambahkan rerata nilai siswa
+  (e) Menambahkan nama orang tua/wali siswa
+  (f)  Menambahkan kontak orang tua/wali siswa
 2. Read (Menampilkan data siswa)
-Menu Read terdiri dari menampilkan data siswa, yang terdiri dari beberapa sub-fitur, yaitu:
-  a. Menampilkan semua data siswa
-  b. Menampilkan semua data siswa berdasarkan urutan nilai
-  c. Menampilkan data siswa berdasarkan rumpun
-  d. Menampilkan data siswa berdasarkan NIS tertentu
+-- Menu Read terdiri dari menampilkan data siswa, yang terdiri dari beberapa sub-fitur, yaitu:
+  (a) Menampilkan semua data siswa
+  (b) Menampilkan semua data siswa berdasarkan urutan nilai
+  (c) Menampilkan data siswa berdasarkan rumpun
+  (d) Menampilkan data siswa berdasarkan NIS tertentu
 3. Memprediksi nilai untuk persiapan SNBP
-Fitur tambahan ini membandingkan nilai siswa dengan nilai passing grade lima jurusan yang dipilih secara acak sebagai data dummy untuk tiap-tiap rumpun. 
+-- Fitur tambahan ini membandingkan nilai siswa dengan nilai passing grade lima jurusan yang dipilih secara acak sebagai data dummy untuk tiap-tiap rumpun. 
 4. Update (Merubah data siswa)
-Menu Update terdiri dari merubah data siswa yang sudah ada, dengan ketentuan NIS harus sudah terdapat pada program ini, kemudian user dapat memilih untuk merubah:
-  a. Nama lengkap siswa
-  b. Kelas siwa
-  c. Rerata nilai siswa
-  d. Nama orang tua/wali siswa
-  e.  Kontak orang tua/wali siswa
+-- Menu Update terdiri dari merubah data siswa yang sudah ada, dengan ketentuan NIS harus sudah terdapat pada program ini, kemudian user dapat memilih untuk merubah:
+  (a) Nama lengkap siswa
+  (b) Kelas siwa
+  (c) Rerata nilai siswa
+  (d) Nama orang tua/wali siswa
+  (e) Kontak orang tua/wali siswa
 5. Delete (Menghapus data siswa)
 Menu Delete terdiri dari penghapusan data yang sudah ada, yang terdiri dari beberapa sub-fitur, yaitu:
-  a. Menghapus data siswa dengan NIS tertentu
-  b. Menghapus seluruh data siswa
+  (a) Menghapus data siswa dengan NIS tertentu
+  (b) Menghapus seluruh data siswa
 Setelah dilakukan penghapusan seluruh data, maka semua fitur, keculi fitur update, tidak dapat dijalankan.
 ——————————————————————————————————————————————————————————————
