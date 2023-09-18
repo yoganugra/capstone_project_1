@@ -14,7 +14,7 @@ Data dummy yang digunakan pada program ini adalah:
 2. Lima jurusan saintek beserta passing gradenya untuk SNBP
 3. Lima jurusan soshum beserta passing gradenya untuk SNBP
 
-——————————————————————————————————————————————————————————————
+—————————————————————————————————————————————————————————
 
 Ketentuan data dummy yang digunakan pada program ini adalah:
 1. NIS                    : sebagai primary key
@@ -24,7 +24,7 @@ Ketentuan data dummy yang digunakan pada program ini adalah:
 5. Nama Orang Tua/Wali    : Nama orang tua/wali untuk dilakukan konsultasi mengenai perkembangan belajar di sekolah
 6. Kontak Orang Tua/Wali  : Nomor handphone orang tua/wali untuk dilakukan komunikasi mengenai perkembangan belajar di sekolah, termasuk layak/tidaknya mendapatkan KIP-K.
 
-——————————————————————————————————————————————————————————————
+—————————————————————————————————————————————————————————
 
 Program ini terdiri dari fitur utama dengan beberapa sub-fitur di dalamnya.
 
@@ -63,4 +63,4 @@ Menu Delete terdiri dari penghapusan data yang sudah ada, yang terdiri dari bebe
   (a) Menghapus data siswa dengan NIS tertentu
   (b) Menghapus seluruh data siswa
 Setelah dilakukan penghapusan seluruh data, maka semua fitur, keculi fitur update, tidak dapat dijalankan.
-——————————————————————————————————————————————————————————————
+—————————————————————————————————————————————————————————
